@@ -1,0 +1,8 @@
+node_modules/
+.vscode/
+.idea/
+src/models/
+src/arrow-functions1.js
+src/functional-expressions.js
+src/traditions-functions.js
+src/setters-getters1.js
